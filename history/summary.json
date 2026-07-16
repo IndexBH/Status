@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 867,
-    "timeWeek": 867,
-    "timeMonth": 867,
-    "timeYear": 867,
+    "time": 847,
+    "timeDay": 847,
+    "timeWeek": 847,
+    "timeMonth": 847,
+    "timeYear": 847,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   },
   {
@@ -58,18 +58,20 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 572,
     "timeDay": 572,
     "timeWeek": 572,
     "timeMonth": 572,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-16": 0
+    }
   },
   {
     "name": "Index.ba Status UptimeRobot",
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 796,
-    "timeWeek": 796,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "time": 794,
+    "timeDay": 794,
+    "timeWeek": 794,
+    "timeMonth": 794,
+    "timeYear": 794,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4831,
-    "timeDay": 4831,
-    "timeWeek": 4831,
-    "timeMonth": 4831,
-    "timeYear": 4831,
+    "time": 5120,
+    "timeDay": 5120,
+    "timeWeek": 5120,
+    "timeMonth": 5120,
+    "timeYear": 5120,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   }
 ]
