@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2091,
-    "timeDay": 2184,
+    "timeDay": 2183,
     "timeWeek": 2091,
     "timeMonth": 2091,
     "timeYear": 2091,
@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
     "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "98.23%",
+    "uptime": "98.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
     "time": 565,
     "timeDay": 619,
     "timeWeek": 565,
@@ -72,8 +72,7 @@
     "dailyMinutesDown": {
       "2026-07-17": 30,
       "2026-07-20": 118,
-      "2026-07-22": 17,
-      "2026-07-23": 4
+      "2026-07-22": 17
     }
   },
   {
