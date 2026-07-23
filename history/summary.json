@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.37%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 561,
     "timeDay": 560,
     "timeWeek": 560,
@@ -73,7 +73,7 @@
       "2026-07-17": 30,
       "2026-07-20": 118,
       "2026-07-22": 17,
-      "2026-07-23": 1
+      "2026-07-23": 2
     }
   },
   {
@@ -88,8 +88,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
-    "timeDay": 731,
-    "timeWeek": 722,
+    "timeDay": 730,
+    "timeWeek": 721,
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {}
@@ -106,8 +106,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1889,
-    "timeDay": 791,
-    "timeWeek": 1848,
+    "timeDay": 793,
+    "timeWeek": 1845,
     "timeMonth": 1889,
     "timeYear": 1889,
     "dailyMinutesDown": {}
@@ -125,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 244,
-    "timeWeek": 282,
+    "timeWeek": 283,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {}
