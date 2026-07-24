@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 493,
-    "timeWeek": 562,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "time": 558,
+    "timeDay": 494,
+    "timeWeek": 563,
+    "timeMonth": 558,
+    "timeYear": 558,
     "dailyMinutesDown": {}
   },
   {
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2084,
-    "timeDay": 2029,
+    "timeDay": 2031,
     "timeWeek": 2097,
     "timeMonth": 2084,
     "timeYear": 2084,
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 365,
-    "timeWeek": 470,
+    "timeDay": 366,
+    "timeWeek": 469,
     "timeMonth": 455,
     "timeYear": 455,
     "dailyMinutesDown": {}
@@ -58,12 +58,12 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 560,
     "timeDay": 549,
     "timeWeek": 557,
@@ -72,7 +72,8 @@
     "dailyMinutesDown": {
       "2026-07-17": 30,
       "2026-07-20": 118,
-      "2026-07-22": 17
+      "2026-07-22": 17,
+      "2026-07-24": 1
     }
   },
   {
@@ -105,8 +106,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1813,
-    "timeDay": 1013,
-    "timeWeek": 1236,
+    "timeDay": 1014,
+    "timeWeek": 1223,
     "timeMonth": 1813,
     "timeYear": 1813,
     "dailyMinutesDown": {}
@@ -123,8 +124,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 357,
-    "timeWeek": 292,
+    "timeDay": 355,
+    "timeWeek": 291,
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {}
