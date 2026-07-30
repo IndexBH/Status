@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 550,
+    "timeDay": 549,
     "timeWeek": 532,
     "timeMonth": 552,
     "timeYear": 552,
@@ -59,14 +59,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
     "status": "down",
-    "uptime": "98.51%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.51%",
+    "uptime": "98.50%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 570,
     "timeDay": 554,
-    "timeWeek": 583,
+    "timeWeek": 584,
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
       "2026-07-26": 37,
       "2026-07-27": 35,
       "2026-07-28": 41,
-      "2026-07-30": 31
+      "2026-07-30": 34
     }
   },
   {
@@ -92,7 +92,7 @@
     "uptimeYear": "100.00%",
     "time": 741,
     "timeDay": 1010,
-    "timeWeek": 775,
+    "timeWeek": 776,
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {}
@@ -103,19 +103,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/index.ba.ico",
     "slug": "index-ba-search-engine",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1633,
     "timeDay": 1097,
     "timeWeek": 1202,
     "timeMonth": 1633,
     "timeYear": 1633,
-    "dailyMinutesDown": {
-      "2026-07-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Index.ba Najnovije",
