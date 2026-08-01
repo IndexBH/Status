@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 623,
+    "timeDay": 510,
     "timeWeek": 537,
     "timeMonth": 554,
     "timeYear": 554,
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2076,
-    "timeDay": 2030,
-    "timeWeek": 2050,
+    "timeDay": 2031,
+    "timeWeek": 2051,
     "timeMonth": 2076,
     "timeYear": 2076,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 497,
-    "timeWeek": 409,
+    "timeDay": 486,
+    "timeWeek": 410,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {}
@@ -58,15 +58,15 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "up",
-    "uptime": "98.32%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
+    "status": "down",
+    "uptime": "98.31%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 570,
-    "timeDay": 579,
-    "timeWeek": 573,
+    "timeDay": 573,
+    "timeWeek": 574,
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {
@@ -78,7 +78,7 @@
       "2026-07-28": 41,
       "2026-07-30": 58,
       "2026-07-31": 15,
-      "2026-08-01": 41
+      "2026-08-01": 42
     }
   },
   {
@@ -94,7 +94,7 @@
     "uptimeYear": "100.00%",
     "time": 741,
     "timeDay": 736,
-    "timeWeek": 777,
+    "timeWeek": 774,
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {}
@@ -112,7 +112,7 @@
     "uptimeYear": "100.00%",
     "time": 1603,
     "timeDay": 1318,
-    "timeWeek": 1262,
+    "timeWeek": 1261,
     "timeMonth": 1603,
     "timeYear": 1603,
     "dailyMinutesDown": {}
@@ -129,8 +129,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 353,
-    "timeWeek": 360,
+    "timeDay": 351,
+    "timeWeek": 361,
     "timeMonth": 311,
     "timeYear": 311,
     "dailyMinutesDown": {}
