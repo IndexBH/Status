@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 585,
     "timeDay": 539,
-    "timeWeek": 710,
+    "timeWeek": 711,
     "timeMonth": 585,
     "timeYear": 585,
     "dailyMinutesDown": {}
@@ -60,8 +60,8 @@
     "slug": "index-ba-status-hetrix",
     "status": "down",
     "uptime": "97.59%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "95.75%",
+    "uptimeDay": "94.46%",
+    "uptimeWeek": "95.72%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "97.59%",
     "time": 588,
@@ -84,7 +84,7 @@
       "2026-08-04": 67,
       "2026-08-05": 63,
       "2026-08-06": 32,
-      "2026-08-07": 76
+      "2026-08-07": 79
     }
   },
   {
