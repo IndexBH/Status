@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 428,
+    "timeDay": 429,
     "timeWeek": 527,
-    "timeMonth": 571,
+    "timeMonth": 572,
     "timeYear": 580,
     "dailyMinutesDown": {}
   },
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 450,
     "timeDay": 344,
-    "timeWeek": 384,
+    "timeWeek": 385,
     "timeMonth": 440,
     "timeYear": 450,
     "dailyMinutesDown": {}
@@ -60,7 +60,7 @@
     "slug": "index-ba-status-hetrix",
     "status": "up",
     "uptime": "95.76%",
-    "uptimeDay": "88.99%",
+    "uptimeDay": "89.33%",
     "uptimeWeek": "91.69%",
     "uptimeMonth": "95.43%",
     "uptimeYear": "95.76%",
@@ -147,7 +147,7 @@
     "uptimeYear": "99.97%",
     "time": 344,
     "timeDay": 539,
-    "timeWeek": 464,
+    "timeWeek": 463,
     "timeMonth": 347,
     "timeYear": 344,
     "dailyMinutesDown": {
