@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 582,
-    "timeDay": 703,
-    "timeWeek": 623,
+    "timeDay": 692,
+    "timeWeek": 622,
     "timeMonth": 613,
     "timeYear": 582,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2087,
-    "timeDay": 2197,
-    "timeWeek": 2111,
+    "time": 2088,
+    "timeDay": 2211,
+    "timeWeek": 2112,
     "timeMonth": 2100,
-    "timeYear": 2087,
+    "timeYear": 2088,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 447,
-    "timeDay": 415,
+    "timeDay": 417,
     "timeWeek": 459,
     "timeMonth": 455,
     "timeYear": 447,
@@ -65,8 +65,8 @@
     "uptimeMonth": "95.06%",
     "uptimeYear": "96.79%",
     "time": 590,
-    "timeDay": 648,
-    "timeWeek": 640,
+    "timeDay": 670,
+    "timeWeek": 642,
     "timeMonth": 613,
     "timeYear": 590,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 737,
-    "timeDay": 724,
+    "timeDay": 725,
     "timeWeek": 712,
     "timeMonth": 733,
     "timeYear": 737,
@@ -117,19 +117,19 @@
     "url": "https://index.ba/?s=index",
     "icon": "https://icons.duckduckgo.com/ip3/index.ba.ico",
     "slug": "index-ba-search-engine",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 1711,
-    "timeDay": 1987,
-    "timeWeek": 2104,
-    "timeMonth": 1826,
+    "timeDay": 2034,
+    "timeWeek": 2110,
+    "timeMonth": 1827,
     "timeYear": 1711,
     "dailyMinutesDown": {
-      "2026-09-01": 11
+      "2026-09-01": 14
     }
   },
   {
@@ -137,20 +137,20 @@
     "url": "https://index.ba/najnovije/",
     "icon": "https://icons.duckduckgo.com/ip3/index.ba.ico",
     "slug": "index-ba-najnovije",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 355,
-    "timeDay": 426,
+    "time": 356,
+    "timeDay": 429,
     "timeWeek": 426,
     "timeMonth": 406,
-    "timeYear": 355,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2026-08-03": 16,
-      "2026-09-01": 11
+      "2026-09-01": 14
     }
   }
 ]
