@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 593,
-    "timeWeek": 707,
+    "timeDay": 574,
+    "timeWeek": 708,
     "timeMonth": 595,
     "timeYear": 590,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2087,
-    "timeDay": 2023,
-    "timeWeek": 2121,
+    "timeDay": 2016,
+    "timeWeek": 2119,
     "timeMonth": 2066,
     "timeYear": 2087,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
-    "timeDay": 460,
-    "timeWeek": 440,
+    "timeDay": 450,
+    "timeWeek": 439,
     "timeMonth": 421,
     "timeYear": 446,
     "dailyMinutesDown": {}
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
     "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "97.09%",
+    "uptime": "97.06%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "94.96%",
+    "uptimeYear": "97.06%",
     "time": 588,
     "timeDay": 457,
     "timeWeek": 596,
     "timeMonth": 585,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2026-08-15": 26,
+      "2026-08-15": 59,
       "2026-08-16": 60,
       "2026-08-17": 340,
       "2026-08-18": 52,
@@ -92,7 +92,7 @@
       "2026-09-03": 132,
       "2026-09-04": 70,
       "2026-09-05": 30,
-      "2026-09-06": 38
+      "2026-09-06": 24
     }
   },
   {
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 735,
-    "timeDay": 704,
-    "timeWeek": 716,
+    "timeDay": 703,
+    "timeWeek": 715,
     "timeMonth": 728,
     "timeYear": 735,
     "dailyMinutesDown": {}
@@ -125,9 +125,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 1754,
-    "timeDay": 1770,
-    "timeWeek": 2348,
-    "timeMonth": 2030,
+    "timeDay": 1773,
+    "timeWeek": 2349,
+    "timeMonth": 2031,
     "timeYear": 1754,
     "dailyMinutesDown": {
       "2026-09-01": 14
@@ -145,8 +145,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 367,
-    "timeDay": 324,
-    "timeWeek": 522,
+    "timeDay": 313,
+    "timeWeek": 523,
     "timeMonth": 433,
     "timeYear": 367,
     "dailyMinutesDown": {
