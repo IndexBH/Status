@@ -13,7 +13,7 @@
     "time": 592,
     "timeDay": 718,
     "timeWeek": 700,
-    "timeMonth": 601,
+    "timeMonth": 600,
     "timeYear": 592,
     "dailyMinutesDown": {}
   },
@@ -61,8 +61,8 @@
     "status": "down",
     "uptime": "97.51%",
     "uptimeDay": "90.93%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "95.55%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "95.54%",
     "uptimeYear": "97.51%",
     "time": 589,
     "timeDay": 704,
@@ -90,7 +90,7 @@
       "2026-09-05": 30,
       "2026-09-06": 87,
       "2026-09-07": 101,
-      "2026-09-08": 93
+      "2026-09-08": 99
     }
   },
   {
