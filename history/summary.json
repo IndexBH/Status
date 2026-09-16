@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 643,
-    "timeWeek": 602,
+    "timeWeek": 601,
     "timeMonth": 608,
     "timeYear": 592,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2087,
     "timeDay": 2166,
-    "timeWeek": 2066,
+    "timeWeek": 2067,
     "timeMonth": 2068,
     "timeYear": 2087,
     "dailyMinutesDown": {}
@@ -60,16 +60,17 @@
     "slug": "index-ba-status-hetrix",
     "status": "up",
     "uptime": "97.75%",
-    "uptimeDay": "90.18%",
-    "uptimeWeek": "90.81%",
-    "uptimeMonth": "95.45%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "90.96%",
+    "uptimeMonth": "95.46%",
     "uptimeYear": "97.75%",
     "time": 589,
     "timeDay": 651,
-    "timeWeek": 582,
+    "timeWeek": 580,
     "timeMonth": 594,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2026-08-28": 12,
       "2026-08-29": 145,
       "2026-08-30": 124,
       "2026-08-31": 90,
@@ -87,7 +88,7 @@
       "2026-09-12": 100,
       "2026-09-13": 24,
       "2026-09-14": 117,
-      "2026-09-15": 142
+      "2026-09-15": 127
     }
   },
   {
@@ -123,7 +124,7 @@
     "uptimeYear": "99.98%",
     "time": 1786,
     "timeDay": 2370,
-    "timeWeek": 2264,
+    "timeWeek": 2265,
     "timeMonth": 2211,
     "timeYear": 1786,
     "dailyMinutesDown": {
