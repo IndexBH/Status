@@ -64,13 +64,13 @@
     "slug": "index-ba-status-hetrix",
     "status": "down",
     "uptime": "98.20%",
-    "uptimeDay": "88.09%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "95.45%",
+    "uptimeDay": "87.43%",
+    "uptimeWeek": "88.73%",
+    "uptimeMonth": "95.43%",
     "uptimeYear": "98.20%",
     "time": 587,
     "timeDay": 597,
-    "timeWeek": 530,
+    "timeWeek": 531,
     "timeMonth": 576,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
       "2026-09-28": 239,
       "2026-09-29": 57,
       "2026-09-30": 144,
-      "2026-10-01": 130
+      "2026-10-01": 140
     }
   },
   {
@@ -123,7 +123,7 @@
     "uptimeYear": "99.89%",
     "time": 1865,
     "timeDay": 3167,
-    "timeWeek": 2630,
+    "timeWeek": 2631,
     "timeMonth": 2360,
     "timeYear": 1865,
     "dailyMinutesDown": {
