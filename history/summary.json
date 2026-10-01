@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 590,
-    "timeDay": 503,
-    "timeWeek": 538,
-    "timeMonth": 616,
+    "timeDay": 519,
+    "timeWeek": 536,
+    "timeMonth": 617,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2026-09-30": 41
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2089,
-    "timeDay": 2056,
-    "timeWeek": 2052,
-    "timeMonth": 2095,
+    "timeDay": 2049,
+    "timeWeek": 2049,
+    "timeMonth": 2094,
     "timeYear": 2089,
     "dailyMinutesDown": {
       "2026-09-16": 16
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 388,
-    "timeWeek": 403,
+    "timeDay": 408,
+    "timeWeek": 404,
     "timeMonth": 435,
     "timeYear": 444,
     "dailyMinutesDown": {}
@@ -62,19 +62,19 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "89.16%",
-    "uptimeMonth": "95.43%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "88.96%",
+    "uptimeMonth": "95.42%",
     "uptimeYear": "98.19%",
     "time": 587,
-    "timeDay": 561,
-    "timeWeek": 535,
-    "timeMonth": 577,
+    "timeDay": 565,
+    "timeWeek": 532,
+    "timeMonth": 576,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2026-09-18": 184,
+      "2026-09-18": 168,
       "2026-09-19": 122,
       "2026-09-20": 110,
       "2026-09-21": 159,
@@ -87,7 +87,7 @@
       "2026-09-28": 239,
       "2026-09-29": 57,
       "2026-09-30": 144,
-      "2026-10-01": 77
+      "2026-10-01": 98
     }
   },
   {
@@ -102,8 +102,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 729,
-    "timeDay": 700,
-    "timeWeek": 702,
+    "timeDay": 698,
+    "timeWeek": 701,
     "timeMonth": 703,
     "timeYear": 729,
     "dailyMinutesDown": {
@@ -122,8 +122,8 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.89%",
     "time": 1864,
-    "timeDay": 3044,
-    "timeWeek": 2632,
+    "timeDay": 3043,
+    "timeWeek": 2631,
     "timeMonth": 2359,
     "timeYear": 1864,
     "dailyMinutesDown": {
