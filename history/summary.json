@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 590,
-    "timeDay": 632,
-    "timeWeek": 572,
-    "timeMonth": 586,
+    "timeDay": 635,
+    "timeWeek": 577,
+    "timeMonth": 587,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2026-09-30": 41
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2085,
-    "timeDay": 1881,
-    "timeWeek": 2005,
-    "timeMonth": 2073,
-    "timeYear": 2085,
+    "time": 2086,
+    "timeDay": 1886,
+    "timeWeek": 2009,
+    "timeMonth": 2074,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2026-09-16": 16
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 457,
-    "timeWeek": 431,
-    "timeMonth": 437,
+    "timeDay": 462,
+    "timeWeek": 430,
+    "timeMonth": 438,
     "timeYear": 445,
     "dailyMinutesDown": {}
   },
@@ -62,15 +62,15 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "down",
-    "uptime": "98.18%",
-    "uptimeDay": "90.74%",
-    "uptimeWeek": "87.37%",
-    "uptimeMonth": "95.20%",
-    "uptimeYear": "98.18%",
+    "status": "up",
+    "uptime": "98.15%",
+    "uptimeDay": "88.93%",
+    "uptimeWeek": "87.20%",
+    "uptimeMonth": "95.13%",
+    "uptimeYear": "98.15%",
     "time": 586,
-    "timeDay": 561,
-    "timeWeek": 519,
+    "timeDay": 580,
+    "timeWeek": 522,
     "timeMonth": 567,
     "timeYear": 586,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
       "2026-10-01": 236,
       "2026-10-02": 203,
       "2026-10-03": 189,
-      "2026-10-04": 65
+      "2026-10-04": 99
     }
   },
   {
@@ -122,9 +122,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.90%",
     "time": 1909,
-    "timeDay": 3564,
-    "timeWeek": 3393,
-    "timeMonth": 2487,
+    "timeDay": 3587,
+    "timeWeek": 3404,
+    "timeMonth": 2488,
     "timeYear": 1909,
     "dailyMinutesDown": {
       "2026-09-01": 14,
@@ -145,8 +145,8 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
     "time": 366,
-    "timeDay": 268,
-    "timeWeek": 460,
+    "timeDay": 250,
+    "timeWeek": 461,
     "timeMonth": 363,
     "timeYear": 366,
     "dailyMinutesDown": {
