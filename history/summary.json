@@ -11,8 +11,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 590,
-    "timeDay": 633,
-    "timeWeek": 581,
+    "timeDay": 637,
+    "timeWeek": 582,
     "timeMonth": 587,
     "timeYear": 590,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2085,
-    "timeDay": 1849,
-    "timeWeek": 1986,
-    "timeMonth": 2073,
+    "timeDay": 1850,
+    "timeWeek": 1985,
+    "timeMonth": 2074,
     "timeYear": 2085,
     "dailyMinutesDown": {
       "2026-09-16": 16
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
-    "timeDay": 437,
-    "timeWeek": 430,
+    "timeDay": 441,
+    "timeWeek": 431,
     "timeMonth": 437,
     "timeYear": 445,
     "dailyMinutesDown": {}
@@ -63,13 +63,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
     "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "83.11%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "95.02%",
-    "uptimeYear": "98.12%",
+    "uptime": "98.11%",
+    "uptimeDay": "82.50%",
+    "uptimeWeek": "87.25%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "98.11%",
     "time": 585,
-    "timeDay": 548,
+    "timeDay": 549,
     "timeWeek": 519,
     "timeMonth": 568,
     "timeYear": 585,
@@ -87,7 +87,7 @@
       "2026-10-02": 203,
       "2026-10-03": 189,
       "2026-10-04": 189,
-      "2026-10-05": 55
+      "2026-10-05": 64
     }
   },
   {
@@ -122,8 +122,8 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.90%",
     "time": 1918,
-    "timeDay": 3937,
-    "timeWeek": 3523,
+    "timeDay": 3944,
+    "timeWeek": 3526,
     "timeMonth": 2523,
     "timeYear": 1918,
     "dailyMinutesDown": {
@@ -146,8 +146,8 @@
     "uptimeYear": "99.92%",
     "time": 365,
     "timeDay": 236,
-    "timeWeek": 451,
-    "timeMonth": 357,
+    "timeWeek": 452,
+    "timeMonth": 358,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2026-08-03": 16,
