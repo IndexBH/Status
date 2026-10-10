@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 590,
     "timeDay": 559,
-    "timeWeek": 604,
+    "timeWeek": 602,
     "timeMonth": 582,
     "timeYear": 590,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2084,
-    "timeDay": 1964,
-    "timeWeek": 2029,
-    "timeMonth": 2066,
+    "timeDay": 1967,
+    "timeWeek": 2027,
+    "timeMonth": 2067,
     "timeYear": 2084,
     "dailyMinutesDown": {
       "2026-09-16": 16
@@ -53,7 +53,7 @@
     "time": 445,
     "timeDay": 522,
     "timeWeek": 457,
-    "timeMonth": 442,
+    "timeMonth": 443,
     "timeYear": 445,
     "dailyMinutesDown": {}
   },
@@ -62,15 +62,15 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "down",
-    "uptime": "98.11%",
-    "uptimeDay": "90.02%",
-    "uptimeWeek": "90.26%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "98.11%",
+    "status": "up",
+    "uptime": "98.10%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "90.20%",
+    "uptimeMonth": "94.61%",
+    "uptimeYear": "98.10%",
     "time": 587,
-    "timeDay": 659,
-    "timeWeek": 620,
+    "timeDay": 660,
+    "timeWeek": 618,
     "timeMonth": 581,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -88,7 +88,7 @@
       "2026-10-07": 62,
       "2026-10-08": 129,
       "2026-10-09": 60,
-      "2026-10-10": 144
+      "2026-10-10": 150
     }
   },
   {
@@ -103,8 +103,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 737,
-    "timeDay": 1030,
-    "timeWeek": 894,
+    "timeDay": 1029,
+    "timeWeek": 893,
     "timeMonth": 746,
     "timeYear": 737,
     "dailyMinutesDown": {
@@ -123,9 +123,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.89%",
     "time": 1984,
-    "timeDay": 4458,
-    "timeWeek": 3688,
-    "timeMonth": 2826,
+    "timeDay": 4481,
+    "timeWeek": 3695,
+    "timeMonth": 2829,
     "timeYear": 1984,
     "dailyMinutesDown": {
       "2026-09-01": 14,
