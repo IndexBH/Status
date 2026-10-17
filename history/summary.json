@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 594,
-    "timeDay": 502,
-    "timeWeek": 673,
-    "timeMonth": 602,
+    "timeDay": 496,
+    "timeWeek": 672,
+    "timeMonth": 601,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2026-09-30": 41
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2075,
-    "timeDay": 1732,
+    "time": 2074,
+    "timeDay": 1731,
     "timeWeek": 1870,
     "timeMonth": 2019,
-    "timeYear": 2075,
+    "timeYear": 2074,
     "dailyMinutesDown": {
       "2026-09-16": 16
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 396,
-    "timeWeek": 510,
-    "timeMonth": 465,
+    "timeDay": 407,
+    "timeWeek": 511,
+    "timeMonth": 466,
     "timeYear": 448,
     "dailyMinutesDown": {}
   },
@@ -62,14 +62,14 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "94.50%",
-    "uptimeYear": "98.21%",
+    "status": "up",
+    "uptime": "98.20%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "98.20%",
     "time": 587,
-    "timeDay": 488,
+    "timeDay": 489,
     "timeWeek": 578,
     "timeMonth": 575,
     "timeYear": 587,
@@ -91,7 +91,7 @@
       "2026-10-14": 79,
       "2026-10-15": 53,
       "2026-10-16": 127,
-      "2026-10-17": 117
+      "2026-10-17": 124
     }
   },
   {
@@ -106,8 +106,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 736,
-    "timeDay": 701,
-    "timeWeek": 717,
+    "timeDay": 703,
+    "timeWeek": 718,
     "timeMonth": 749,
     "timeYear": 736,
     "dailyMinutesDown": {
@@ -127,8 +127,8 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.88%",
     "time": 2051,
-    "timeDay": 4988,
-    "timeWeek": 3518,
+    "timeDay": 4930,
+    "timeWeek": 3517,
     "timeMonth": 3124,
     "timeYear": 2051,
     "dailyMinutesDown": {
@@ -152,9 +152,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 359,
-    "timeDay": 210,
+    "timeDay": 208,
     "timeWeek": 295,
-    "timeMonth": 322,
+    "timeMonth": 321,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2026-08-03": 16,
