@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 596,
-    "timeDay": 524,
-    "timeWeek": 592,
+    "timeDay": 546,
+    "timeWeek": 596,
     "timeMonth": 636,
     "timeYear": 596,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 2047,
-    "timeDay": 1850,
-    "timeWeek": 1781,
+    "time": 2048,
+    "timeDay": 1846,
+    "timeWeek": 1785,
     "timeMonth": 1863,
-    "timeYear": 2047,
+    "timeYear": 2048,
     "dailyMinutesDown": {
       "2026-09-16": 16,
       "2026-10-20": 24
@@ -52,7 +52,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 546,
+    "timeDay": 519,
     "timeWeek": 520,
     "timeMonth": 496,
     "timeYear": 453,
@@ -63,16 +63,16 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "down",
+    "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "94.22%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "94.57%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "98.45%",
     "time": 586,
-    "timeDay": 587,
-    "timeWeek": 626,
-    "timeMonth": 593,
+    "timeDay": 585,
+    "timeWeek": 629,
+    "timeMonth": 594,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2026-10-17": 124,
@@ -96,7 +96,7 @@
       "2026-11-04": 58,
       "2026-11-05": 78,
       "2026-11-06": 83,
-      "2026-11-07": 18
+      "2026-11-07": 26
     }
   },
   {
@@ -132,8 +132,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
     "time": 2232,
-    "timeDay": 4731,
-    "timeWeek": 3538,
+    "timeDay": 4769,
+    "timeWeek": 3503,
     "timeMonth": 3763,
     "timeYear": 2232,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
     "time": 351,
     "timeDay": 97,
     "timeWeek": 133,
-    "timeMonth": 285,
+    "timeMonth": 284,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2026-08-03": 16,
